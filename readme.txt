@@ -2,7 +2,7 @@
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
-Tested up to: 6.3.0
+Tested up to: 6.4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,12 @@ Adding fractions calculator to add and subtract proper and improper fractions. T
 == Description ==
 
 Adding fractions calculator to add and subtract proper and improper fractions. The calculator performs operations with up to nine given fractions.
+
+__Shortcode__
+
+Use the Adding Fractions Calculator shortcode:
+
+`[ci_adding_fractions_calculator]`
 
 Libraries in use:
 1. https://mathjs.org/
@@ -25,8 +31,11 @@ Libraries in use:
 
 1. Upload the /ci_adding_fractions_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Adding Fractions Calculator](https://www.calculator.io/adding-fractions-calculator/ "Adding Fractions Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-3. Configure your settings via Appearance > Widgets > Adding Fractions Calculator.
-4. And you're good to go!
+
+== Usage ==
+* Add the shortcode `[ci_adding_fractions_calculator]` to your page or post and configure default mortgage parameters.
+* If you are using widgets, just add the Adding Fractions Calculator to the sidebar through the `Appearance -> Widgets -> Adding Fractions Calculator` menu in WordPress.
+* Add the following code: `<?php display_ci_adding_fractions_calculator(); ?>` to your template where you would like the Adding Fractions Calculator to appear.
 
 == Screenshots ==
 1. The Adding Fractions Calculator Input Form.
