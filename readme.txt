@@ -13,6 +13,8 @@ Adding fractions calculator to add and subtract proper and improper fractions. T
 
 Adding fractions calculator to add and subtract proper and improper fractions. The calculator performs operations with up to nine given fractions.
 
+[Adding Fractions Calculator Homepage](https://www.calculator.io/adding-fractions-calculator/ "Adding Fractions Calculator Homepage")
+
 __Shortcode__
 
 Use the Adding Fractions Calculator shortcode:
