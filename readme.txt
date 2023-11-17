@@ -1,6 +1,6 @@
 === Adding Fractions Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: fraction addition calculator, sum of fractions, mixed number calculator, adding fractions tool, simple fraction adder, online fraction calculator, add unlike fractions, sum mixed numbers
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
