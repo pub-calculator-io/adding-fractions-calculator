@@ -1,4 +1,4 @@
-# Adding Fractions Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Adding Fractions Calculator Widget for WordPress
 
 Adding fractions calculator to add and subtract proper and improper fractions. The calculator performs operations with up to nine given fractions.
 
