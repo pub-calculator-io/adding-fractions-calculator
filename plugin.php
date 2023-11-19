@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Adding Fractions Calculator by www.calculator.io
+Plugin Name: CI Adding fractions calculator
 Plugin URI: https://www.calculator.io/adding-fractions-calculator/
 Description: Adding fractions calculator to add and subtract proper and improper fractions. The calculator performs operations with up to nine given fractions.
 Version: 1.0.0
