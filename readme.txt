@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Adding Fraction
 == Screenshots ==
 
 1. The Adding Fractions Calculator Input Form.
-2. The Adding Fractions Calculator Calculation Results.
 
 == Installation ==
 

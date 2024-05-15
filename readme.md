@@ -3,7 +3,6 @@
 Adding fractions calculator to add and subtract proper and improper fractions. The calculator performs operations with up to nine given fractions.
 
 ![Adding Fractions Calculator Input Form](/assets/images/screenshot-1.png "Adding Fractions Calculator Input Form")
-![Adding Fractions Calculator Calculation Results](/assets/images/screenshot-2.png "Adding Fractions Calculator Calculation Results")
 
 ## Installation
 
