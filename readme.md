@@ -1,6 +1,6 @@
 # Adding Fractions Calculator Widget for WordPress
 
-Adding fractions calculator to add and subtract proper and improper fractions. The calculator performs operations with up to nine given fractions.
+Easily add and subtract proper, improper, and mixed fractions with our free Adding Fractions Calculator. Instantly solve math problems with up to 9 fractions!
 
 ![Adding Fractions Calculator Input Form](/assets/images/screenshot-1.png "Adding Fractions Calculator Input Form")
 
@@ -11,8 +11,8 @@ Adding fractions calculator to add and subtract proper and improper fractions. T
 3. Activate the [Adding Fractions Calculator](https://www.calculator.io/adding-fractions-calculator/ "Adding Fractions Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_adding_fractions_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_adding_fractions_calculator(); ?>` to your template where you would like the Adding Fractions Calculator to appear.
+* Add the shortcode `[calcio_adding_fractions_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_adding_fractions_calculator(); ?>` to your template where you would like the Adding Fractions Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
